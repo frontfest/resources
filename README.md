@@ -4,7 +4,7 @@
 
 - **[Los deberes que me llevo del Front Fest 2018](https://www.paradigmadigital.com/dev/front-fest-2018/)**, por Jaime Fernández (Paradigma Digital)
 
-## Slides
+## Slides y repos
 
 - **Testing prático con Javascript**, por Ramón Guijarro [[slides](http://slides.com/soyguijarro/testing-javascript)]
 
@@ -15,3 +15,5 @@
 
 - **Reactividad en Angular, React y VueJS**, por Javier Abadía
 [[slides](https://www.slideshare.net/JavierAbada/reactividad-en-angular-react-y-vuejs)] [[repo](https://github.com/jabadia/frontfest-frameworks-demos)]
+
+- **El navegador no es un condesador de fluzo, y lo sabes... ¿o no?**, por Joan León y Jorge Barrachina [[slides](https://docs.google.com/presentation/d/1WD4Va-X1MWvlBYFbCeDOoLFQJ2YW5AqWnonmApZ4bb8)] [[repo](https://github.com/WeAreNotExperts/frontfest_2018)]
